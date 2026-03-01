@@ -3,8 +3,6 @@
 Quantitative Researcher | [Mustafa MAJJI](https://www.linkedin.com/in/mustafa-majji-meng-msc-3a59861a2/)
 
 ***
-# Probability of Default Estimation – Pluto & Tasche Method
-
 ## 📌 Overview
 
 Probability of Default (PD) is one of the most important parameters in credit risk modeling. A reliable estimation of this parameter is only possible in the case of large and sufficiently granular portfolios.
