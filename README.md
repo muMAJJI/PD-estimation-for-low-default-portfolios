@@ -32,6 +32,3 @@ The implementation covers the following cases:
 
 ---
 
-## 🚀 Purpose
-
-This project aims to provide a robust and statistically sound framework for conservative PD estimation in low default portfolios, addressing the limitations of classical estimation techniques.
