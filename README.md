@@ -28,5 +28,10 @@ The implementation covers the following cases:
 - **Correlation of default events with no observed defaults**
 - **Correlation of default events with a small number of defaults**
 
+## :mailbox_closed: Contact
+For any information, feedback or questions, please [contact me][Mustafa-email]
+
+
+[Mustafa-email]: mailto:majji1999@gmail.com
 ---
 
